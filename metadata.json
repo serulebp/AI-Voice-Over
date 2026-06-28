@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Ad Maker",
+  "description": "Buat naskah dan voice-over iklan otomatis hanya dari data produk singkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
